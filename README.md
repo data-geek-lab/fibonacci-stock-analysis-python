@@ -23,15 +23,15 @@ Traders use them to identify **potential support and resistance zones**, where t
 
 ---
 
+## Watch the step-by-step video on YouTube:
+https://youtu.be/qCtS9EfT3Jc
+
+# Please support my channel, subscribe, like or comment.
+
 ## Requirements
 Install the required libraries:
 ```bash
 pip install yfinance pandas matplotlib
 
 
-## Watch the step-by-step video on YouTube:
-https://youtu.be/qCtS9EfT3Jc
 
-# Please support my channel, subscribe, like or comment.
-
-Thank you. 
